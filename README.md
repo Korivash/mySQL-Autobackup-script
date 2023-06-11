@@ -57,5 +57,7 @@ Congratulations! You have successfully set up automatic backups using the Window
 Ensure that the mysqldump.exe path in the script points to the correct location on your system. Modify it if necessary.
 Make sure the user specified in the script has sufficient privileges to access and backup the specified database.
 It is recommended to periodically verify the backups to ensure they are working as expected.
-License
+
+ 
+# License
 This script is released under the MIT License. Feel free to modify and distribute it according
