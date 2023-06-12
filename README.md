@@ -28,10 +28,10 @@ if not exist "%backup_dir%" mkdir "%backup_dir%"
 "C:\xampp\mysql\bin\mysqldump.exe" -u %user% --databases %db_name% > "%backup_file%" 2> "%backup_dir%\error.txt"
 ```
 
-1. ```Save the file with a .bat extension, for example, backup_script.bat.```
-2. ```Replace the placeholders in the script with your own values:```
-3. ```INSERTNAMEOFDATABASEHERE: Replace this with the name of your database.```
-4. ```INSERT FILE PATH HERE: Replace this with the directory path where you want to save the backup files.```
+## 1. Save the file with a .bat extension, for example, backup_script.bat.
+## 2. Replace the placeholders in the script with your own values:
+## 3. ```INSERTNAMEOFDATABASEHERE:``` Replace this with the name of your database.
+## 4. ```INSERT FILE PATH HERE:``` Replace this with the directory path where you want to save the backup files.
 
 # Running the Backup Script
 To run the backup script manually, follow these steps:
