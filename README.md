@@ -15,12 +15,13 @@ Follow the steps below to use the script and backup your SQL database:
 
 1. Open a text editor and create a new file.
 2. Download start.bat file above:
+3. Open the start.bat file with your text editor of choice:
 
 
-1. Save the file with a .bat extension, for example, backup_script.bat.
-2. Replace the placeholders in the script with your own values:
-3. ```INSERTNAMEOFDATABASEHERE:``` Replace this with the name of your database.
- 4. ```INSERT FILE PATH HERE:``` Replace this with the directory path where you want to save the backup files.
+
+4. Replace the placeholders in the script with your own values:
+5. ```INSERTNAMEOFDATABASEHERE:``` Replace this with the name of your database.
+6. ```INSERT FILE PATH HERE:``` Replace this with the directory path where you want to save the backup files.
 
 # Running the Backup Script
 To run the backup script manually, follow these steps:
