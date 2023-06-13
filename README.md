@@ -13,7 +13,7 @@ Before using this script, make sure you have the following:
 
 Follow the steps below to use the script and backup your SQL database:
 
-1. Open a text editor and create a new file.
+1. Create a new folder.
 2. Download start.bat file above:
 3. Open the start.bat file with your text editor of choice:
 
