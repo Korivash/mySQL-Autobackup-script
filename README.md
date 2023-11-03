@@ -1,4 +1,4 @@
-# SQL Database Backup Script
+# mySQL Database Backup Script
 
 This script allows you to easily backup your SQL database using mysqldump. Additionally, we will guide you on how to automate the backup process using Windows Task Scheduler.
 
